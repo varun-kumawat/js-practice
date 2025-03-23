@@ -28,4 +28,4 @@ console.log("duSumTotal", duSumTotal)
 let product = arr.reduce((prev, curr) => {
     return prev  *curr;
 },0)
-console.log("product =",product);
+// console.log("product =",product);
